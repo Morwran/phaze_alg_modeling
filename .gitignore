@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.pyc
+*.pyo
+*.docx
+__pycache__/
+__pycache__*
+
